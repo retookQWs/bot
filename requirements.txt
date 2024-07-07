@@ -1,5 +1,6 @@
 PyPDF2
 pytesseract
+tesseract
 pdf2image
 poppler-utils
 paddlepaddle
